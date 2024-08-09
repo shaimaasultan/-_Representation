@@ -10,5 +10,5 @@ Relation between e and π shown next in Leibniz graph
 <img src="Photos/Screenshot 2024-08-09 123731.png" />
 <img src="Photos/Screenshot 2024-08-09 123758.png"/>
 <img src="Photos/Screenshot 2024-08-09 123809.png" />
-<img src="Screenshot 2024-08-09 130612.png" />
-<img src="Screenshot 2024-08-09 130907.png" />
+<img src="Photos/Screenshot 2024-08-09 130612.png" />
+<img src="Photos/Screenshot 2024-08-09 130907.png" />
